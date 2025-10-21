@@ -1,3 +1,7 @@
+## Support
+If you like my work, consider supporting me:
+[Buy me a coffee ☕](https://www.buymeacoffee.com/watchdogalert)
+
 # encryptor
 chrome plugin that encrypt web messages for secure messaging.
 
